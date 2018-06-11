@@ -1,14 +1,14 @@
 {
-  "name": "react-scripts",
+  "name": "react-scripts-fs",
   "version": "1.1.4",
   "description": "Configuration and scripts for Create React App.",
-  "repository": "facebookincubator/create-react-app",
+  "repository": "zhangxhbeta/react-scripts-fs",
   "license": "MIT",
   "engines": {
     "node": ">=6"
   },
   "bugs": {
-    "url": "https://github.com/facebookincubator/create-react-app/issues"
+    "url": "https://github.com/zhangxhbeta/react-scripts-fs/issues"
   },
   "files": [
     "bin",
